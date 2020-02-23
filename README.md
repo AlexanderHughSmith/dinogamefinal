@@ -1,1 +1,2 @@
-# dinogamefinal
+# dinogame
+AI dinogame
